@@ -1,1 +1,1 @@
-My name is Anton and today is Friday, August 14, 11:47 AM GMT+2.
+My name is Anton and today is Friday, 14 August, 12:06 CEST.
