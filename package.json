@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/abourtnik/abourtnik#readme",
   "dependencies": {
+    "axios": "^0.19.2",
+    "moment": "^2.27.0",
     "mustache": "^4.0.1"
   }
 }

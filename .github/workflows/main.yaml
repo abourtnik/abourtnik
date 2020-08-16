@@ -1,12 +1,11 @@
-name: README build
+name: Automatic README build
 
 on:
   push:
     branches:
       - master
   schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '*/6 * * * *'
+    - cron:  '0 */1 * * *'
 
 jobs:
   build:
