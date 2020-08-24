@@ -1,7 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1>
+    <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/> Hello World ! <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/>
+</h1>
 
-<p>Welcome to my page! </br> I'm Anton, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Paris, France</b></p>
-<h3>Things I code with</h3>
+<p>Welcome to my page ! I'm Anton, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Paris, France</b></p>
+
+<img src="https://raw.githubusercontent.com/abourtnik/abourtnik/master/hero.png" alt="banner Anton Bourtnik">
+
+<h3>I code with </h3>
+
 <p>
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS3" src="http://img.shields.io/badge/-CSS3-254BDE?style=flat-square&logo=css3&logoColor=white">
@@ -62,8 +68,8 @@
 </p>
 
 <p align="center">
-    This <i>README</i> file is generated <b>every 1 hour</b>!
-    </br>Last refresh: Monday, 24 August at 13:13:10<br />
+    This <i>README</i> file is generated <b>every 3 hours</b>!
+    </br>Last refresh: Monday, 24 August at 13:59:45<br />
 </p>
 <p align="center">
     <img src="https://github.com/abourtnik/abourtnik/workflows/README%20build/badge.svg" />
