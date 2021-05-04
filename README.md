@@ -21,7 +21,7 @@
     <img alt="MySQL" src="http://img.shields.io/badge/-MySQL-E27612?style=flat-square&logo=mysql&logoColor=white">
     <img alt="PostgreSQL" src="http://img.shields.io/badge/-PostgreSQL-32648D?style=flat-square&logo=postgresql&logoColor=white">
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-    <img alt="Elasticsearch" src="http://img.shields.io/badge/-Elasticsearch-00BAAE?style=flat-square&logo=elasticsearch&logoColor=white" />
+    <img alt="Typesense" src="https://img.shields.io/badge/-Typesense-0400AB?style=flat-square&logo=typesense&logoColor=white" />
     <img alt="Linux" src="http://img.shields.io/badge/-Linux-F8CC30?style=flat-square&logo=linux&logoColor=white" />
     <img alt="Apache" src="http://img.shields.io/badge/-Apache-A50001?style=flat-square&logo=apache&logoColor=white" />
     <img alt="Nginx" src="http://img.shields.io/badge/-Nginx-009237?style=flat-square&logo=nginx&logoColor=white" />
@@ -46,8 +46,8 @@
         <a href="https:&#x2F;&#x2F;www.emojisworld.io&#x2F;">
             <img width="200" src="https:&#x2F;&#x2F;www.antonbourtnik.fr&#x2F;img&#x2F;projects&#x2F;emojis-world.png" />
         </a>
-        <a href="https:&#x2F;&#x2F;www.templatebook.antonbourtnik.fr">
-            <img width="200" src="https:&#x2F;&#x2F;www.antonbourtnik.fr&#x2F;img&#x2F;projects&#x2F;templatebook.png" />
+        <a href="https:&#x2F;&#x2F;www.worldofmanga.fr">
+            <img width="200" src="https:&#x2F;&#x2F;www.antonbourtnik.fr&#x2F;img&#x2F;projects&#x2F;wom.jpg" />
         </a>
 </p>
 
@@ -68,8 +68,8 @@
 </p>
 
 <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!
-    </br>Last refresh: Tuesday, 06 April at 12:08:38<br />
+    This <i>README</i> file is generated <b>every day at 00:00</b>!
+    </br>Last refresh: Tuesday, 04 May at 18:16:05<br />
 </p>
 <p align="center">
     <img src="https://github.com/abourtnik/abourtnik/workflows/README%20build/badge.svg" />
