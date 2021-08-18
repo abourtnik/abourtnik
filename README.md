@@ -43,7 +43,7 @@
         <a href="https:&#x2F;&#x2F;popcorn.antonbourtnik.fr">
             <img width="200" src="https:&#x2F;&#x2F;www.antonbourtnik.fr&#x2F;img&#x2F;projects&#x2F;popcorn.png" />
         </a>
-        <a href="https:&#x2F;&#x2F;www.emojisworld.io&#x2F;">
+        <a href="https:&#x2F;&#x2F;www.emojisworld.fr&#x2F;">
             <img width="200" src="https:&#x2F;&#x2F;www.antonbourtnik.fr&#x2F;img&#x2F;projects&#x2F;emojis-world.png" />
         </a>
         <a href="https:&#x2F;&#x2F;tchat.antonbourtnik.fr">
@@ -69,7 +69,7 @@
 
 <p align="center">
     This <i>README</i> file is generated <b>every day at 00:00</b>!
-    </br>Last refresh: Tuesday, 17 August at 00:14:46<br />
+    </br>Last refresh: Wednesday, 18 August at 00:14:17<br />
 </p>
 <p align="center">
     <img src="https://github.com/abourtnik/abourtnik/workflows/README%20build/badge.svg" />
