@@ -37,7 +37,7 @@
 
 <h3>My Latest Project</h3>
 <p>
-        <a href="https:&#x2F;&#x2F;www.covidpanel.fr">
+        <a href="https:&#x2F;&#x2F;covidpanel.antonbourtnik.fr">
             <img width="200" src="https:&#x2F;&#x2F;www.antonbourtnik.fr&#x2F;img&#x2F;projects&#x2F;covidpanel.png" />
         </a>
         <a href="https:&#x2F;&#x2F;popcorn.antonbourtnik.fr">
@@ -69,7 +69,7 @@
 
 <p align="center">
     This <i>README</i> file is generated <b>every day at 00:00</b>!
-    </br>Last refresh: Friday, 15 April at 00:26:13<br />
+    </br>Last refresh: Saturday, 16 April at 00:28:02<br />
 </p>
 <p align="center">
     <img src="https://github.com/abourtnik/abourtnik/workflows/README%20build/badge.svg" />
