@@ -37,6 +37,9 @@
 
 <h3>My Latest Project</h3>
 <p>
+        <a href="https:&#x2F;&#x2F;www.clip-zone.com&#x2F;">
+            <img width="200" src="https:&#x2F;&#x2F;www.antonbourtnik.fr&#x2F;img&#x2F;projects&#x2F;clip-zone.png" />
+        </a>
         <a href="https:&#x2F;&#x2F;covidpanel.antonbourtnik.fr">
             <img width="200" src="https:&#x2F;&#x2F;www.antonbourtnik.fr&#x2F;img&#x2F;projects&#x2F;covidpanel.png" />
         </a>
@@ -45,9 +48,6 @@
         </a>
         <a href="https:&#x2F;&#x2F;www.emojisworld.fr&#x2F;">
             <img width="200" src="https:&#x2F;&#x2F;www.antonbourtnik.fr&#x2F;img&#x2F;projects&#x2F;emojis-world.png" />
-        </a>
-        <a href="https:&#x2F;&#x2F;tchat.antonbourtnik.fr">
-            <img width="200" src="https:&#x2F;&#x2F;www.antonbourtnik.fr&#x2F;img&#x2F;projects&#x2F;tchat.png" />
         </a>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p align="center">
     This <i>README</i> file is generated <b>every day at 00:00</b>!
-    </br>Last refresh: Wednesday, 10 May at 00:28:30<br />
+    </br>Last refresh: Thursday, 11 May at 00:28:17<br />
 </p>
 <p align="center">
     <img src="https://github.com/abourtnik/abourtnik/workflows/README%20build/badge.svg" />
