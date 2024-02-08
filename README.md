@@ -2,7 +2,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/> Hello World ! <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/>
 </h1>
 
-<p>Welcome to my page ! I'm Anton, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Paris, France</b></p>
+<p>Welcome to my page ! I'm Anton, Fullstack developer from <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/fr.svg" width="13"/> <b>Paris, France</b></p>
 
 <img src="https://raw.githubusercontent.com/abourtnik/abourtnik/master/hero.png" alt="banner Anton Bourtnik">
 
@@ -17,22 +17,17 @@
     <img alt="WordPress" src="http://img.shields.io/badge/-WordPress-217296?style=flat-square&logo=wordpress&logoColor=white"/>
     <img alt="Symfony" src="http://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white">
     <img alt="Laravel" src="http://img.shields.io/badge/-Laravel-EC4E43?style=flat-square&logo=laravel&logoColor=white">
-    <img alt="CakePHP" src="http://img.shields.io/badge/-CakePHP-CE3B42?style=flat-square&logo=cakephp&logoColor=white">
     <img alt="MySQL" src="http://img.shields.io/badge/-MySQL-E27612?style=flat-square&logo=mysql&logoColor=white">
     <img alt="PostgreSQL" src="http://img.shields.io/badge/-PostgreSQL-32648D?style=flat-square&logo=postgresql&logoColor=white">
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-    <img alt="Typesense" src="https://img.shields.io/badge/-Typesense-0400AB?style=flat-square&logo=typesense&logoColor=white" />
+    <img alt="Meilisearch" src="https://img.shields.io/badge/-Meilisearch-FF537C?style=flat-square&logo=meilisearch&logoColor=white" />
     <img alt="Linux" src="http://img.shields.io/badge/-Linux-F8CC30?style=flat-square&logo=linux&logoColor=white" />
-    <img alt="Apache" src="http://img.shields.io/badge/-Apache-A50001?style=flat-square&logo=apache&logoColor=white" />
     <img alt="Nginx" src="http://img.shields.io/badge/-Nginx-009237?style=flat-square&logo=nginx&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+    <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="GitLab" src="http://img.shields.io/badge/-GitLab-F56A26?style=flat-square&logo=gitlab&logoColor=white" />
-    <img alt="Github" src="http://img.shields.io/badge/-Github-161414?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 <h3>My Latest Project</h3>
